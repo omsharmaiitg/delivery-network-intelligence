@@ -1,0 +1,5 @@
+model,MAE,RMSE,HIT15,HIT25
+OSRM (current),107.78,234.13,4.1,8.4
+Ridge baseline,198.32,1510.52,18.8,32.3
+XGB baseline (trip features),34.2,78.36,45.2,65.1
+XGB graph-enhanced,27.81,72.74,58.4,75.0

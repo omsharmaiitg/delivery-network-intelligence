@@ -1,0 +1,4 @@
+vol_band,corridors,pct_recommend_ftl
+thin(<1.5/d),1876,7.3
+medium(1.5-4/d),51,9.8
+dense(>4/d),7,0.0

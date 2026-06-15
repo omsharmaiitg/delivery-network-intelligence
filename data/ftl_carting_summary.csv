@@ -1,0 +1,6 @@
+dist_band,corridors,pct_recommend_ftl,avg_time_saved_ftl_min,avg_cost_premium_ftl
+<50km,1041,0.0,1.7,1857.2
+50-150km,621,0.0,2.4,1441.7
+150-400km,188,30.9,79.1,246.3
+400-800km,36,100.0,174.9,-2009.4
+>800km,48,100.0,364.8,-8239.2

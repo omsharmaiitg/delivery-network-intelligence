@@ -1,0 +1,20 @@
+,0
+top3_centers,"['IND000000ACB', 'IND562132AAA', 'IND421302AAG']"
+top3_breach_share_pct,24.3
+network_total_excess_min,5583606
+net_legs,26258
+net_late_legs,21846
+breach_def,actual > 1.5x OSRM
+upgrade_effect_pct,40
+legs_touching_top3,4620
+breaches_before_touch,4047
+breaches_after_touch,2920
+breaches_avoided,1127
+pct_reduction_in_late_network,5.2
+pct_reduction_on_top3_corridors,27.8
+excess_min_recovered_window,453310
+excess_hours_recovered_year,110305
+rev_at_risk_per_leg,1800.0
+recovery_fraction,0.5
+rev_recovered_window_inr,1014300
+rev_recovered_year_inr,14808780

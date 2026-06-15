@@ -1,0 +1,7 @@
+﻿data/delivery_data.csv
+data/*.pkl
+data/*.gpickle
+outputs/tables/delivery_data.csv
+__pycache__/
+*.pyc
+.streamlit/
